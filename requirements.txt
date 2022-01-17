@@ -1,3 +1,2 @@
-django-rql>=3.14
-djangorestframework
+django-rql>=3.15
 flatten_json
